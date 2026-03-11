@@ -1,0 +1,1 @@
+pip install customtkinter requests aiohttp pandas xlsxwriter openpyxl Pillow base58 tkcalendar
